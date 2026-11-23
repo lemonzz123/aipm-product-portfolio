@@ -1,4 +1,27 @@
-# 🧠 LLM B端应用实践 | RAG & Agent Demo
+# AI Product Manager Portfolio
+> 求职方向：AI产品经理｜大模型应用 / 企业服务 / SaaS
+> 项目全部基于知乎AI产品经理课程实践，包含PRD、Figma低保原型，覆盖RAG、Agent、模型评测三大B端高频场景
+
+## 📁 项目目录
+- [项目1：企业RAG知识库系统](./docs/prd/rag-knowledge-base.md)
+  私有文档入库、智能问答、引用溯源，面向企业内部员工、客服
+- [项目2：Agent智能工作流平台](./docs/prd/agent-workflow.md)
+  可视化拖拽编排Agent流程，自动处理报表、工单、信息汇总
+- [项目3：Prompt评测&模型效果平台](./docs/prd/prompt-eval-platform.md)
+  标准化评测集、多版本横向对比，量化Prompt与模型效果
+
+## ✨ 核心能力
+- 大模型应用设计：LLM / RAG / Agent / Prompt工程
+- B端SaaS产品：需求挖掘、场景定义、PRD撰写、原型设计、验收方案
+- 数据驱动：效果评测、指标设计、自助解决率优化
+- 协作交付：理解模型边界，输出可落地、可评测的产品方案
+
+## 🎨 原型说明
+配套Figma低保原型，包含登录页、知识库列表、对话页、Agent画布、评测打分看板等页面
+Figma原型链接：（后续粘贴你的Figma分享链接）
+
+## 📌 关于我
+转行AI产品，有工程背景，1年+大模型应用产品实践，擅长把模糊业务需求转化为可验收的产品方案，懂技术边界，重点做企业侧大模型落地。# 🧠 LLM B端应用实践 | RAG & Agent Demo
 > AI产品落地实践项目，面向企业知识库、智能问答、工作流Agent场景
 
 ## ✨ 项目简介
@@ -13,21 +36,14 @@
 - ✅ 配套交付：低保Figma原型、PRD、字段说明、验收标准
 
 ## 📁 目录结构
-├── docs/
-│   └── prd/               # 产品文档：PRD、需求清单、评测方案
-│       ├── prd-rag 知识库.md
-│       ├── prd-agent 工作流.md
-│       └── prd-ai 客服 SaaS.md
-├── figma/              # 低保原型截图、交互说明
-├── prompts/            # 系统提示词库、角色 Prompt、风控规则
-├── workflow/           # Agent 流程、泳道图、分支逻辑
-├── test/               # 测试用例、bad case、幻觉 case 汇总
-└── README.md
+aipm-product-portfolio/
+├── README.md
+└── docs/
+    └── prd/
+        ├── rag-knowledge-base.md
+        ├── agent-workflow.md
+        └── prompt-eval-platform.md
 
-## 📄 产品PRD文档
-- [企业私有知识库RAG模块 PRD](docs/prd/prd-rag知识库.md)
-- [Agent可视化工作流编排模块 PRD](docs/prd/prd-agent工作流.md)
-- [AI客服SaaS对话模块 PRD](docs/prd/prd-ai客服SaaS.md)
 
 ## 🖼️ 原型预览
 Figma低保原型：[这里粘贴你的Figma链接]
