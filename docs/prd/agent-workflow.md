@@ -53,4 +53,10 @@
 
 ## 7. 原型说明
 Figma低保原型页面：流程画布页、流程列表、任务详情日志页、工具配置弹窗、数据看板
-原型链接：（后面填你的Figma链接）
+原型链接：![工作流首页](images/agent/01工作流首页.svg)
+![画布编排页](images/agent/02画布编排页.svg)
+![节点配置弹窗](images/agent/03节点配置弹窗.svg)
+![测试运行页](images/agent/04测试运行页.svg)
+![发布与调用页](images/agent/05发布与调用页.svg)
+![日志监控页](images/agent/06日志监控页.svg)
+
