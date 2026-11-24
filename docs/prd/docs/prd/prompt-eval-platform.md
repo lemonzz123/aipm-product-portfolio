@@ -55,10 +55,11 @@
 
 ## 7. 原型说明
 Figma低保原型页面：评测集列表、用例编辑页、新建评测任务、打分页面、对比报告看板
-原型链接：![工作流首页](images/01工作流首页.svg)
-![画布编排页](images/02画布编排页.svg)
-![节点配置弹窗](images/03节点配置弹窗.svg)
-![测试运行页](images/04测试运行页.svg)
-![发布与调用页](images/05发布与调用页.svg)
-![日志监控页](images//06日志监控页.svg)
+原型链接：![工作流首页](../images/service/01工作流首页.svg)
+![画布编排页](../images/service/02画布编排页.svg)
+![节点配置弹窗](../images/service/03节点配置弹窗.svg)
+![测试运行页](../images/service/04测试运行页.svg)
+![发布与调用页](../images/service/05发布与调用页.svg)
+![日志监控页](../images/service/06日志监控页.svg)
+
 
