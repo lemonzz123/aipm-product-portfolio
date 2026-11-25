@@ -1,6 +1,6 @@
 # AI Product Manager Portfolio
 > 求职方向：AI产品经理｜大模型应用 / 企业服务 / SaaS
-> 项目全部基于知乎AI产品经理课程实践，包含PRD、Figma低保原型，覆盖RAG、Agent、模型评测三大B端高频场景
+> 项目包含PRD、Figma低保原型，覆盖RAG、Agent、模型评测三大B端高频场景
 
 ## 📁 项目目录
 - [项目1：企业RAG知识库系统](./docs/prd/rag-knowledge-base.md)
@@ -9,6 +9,8 @@
   可视化拖拽编排Agent流程，自动处理报表、工单、信息汇总
 - [项目3：Prompt评测&模型效果平台](./docs/prd/prompt-eval-platform.md)
   标准化评测集、多版本横向对比，量化Prompt与模型效果
+- [项目4：零食电商AI售后客服](./docs/prd/snack-prd.md)
+  Agent 工作流与 RAG 知识库方案
 
 ## ✨ 核心能力
 - 大模型应用设计：LLM / RAG / Agent / Prompt工程
@@ -18,10 +20,9 @@
 
 ## 🎨 原型说明
 配套Figma低保原型，包含登录页、知识库列表、对话页、Agent画布、评测打分看板等页面
-Figma原型链接：（后续粘贴你的Figma分享链接）
 
 ## 📌 关于我
-转行AI产品，有工程背景，1年+大模型应用产品实践，擅长把模糊业务需求转化为可验收的产品方案，懂技术边界，重点做企业侧大模型落地。# 🧠 LLM B端应用实践 | RAG & Agent Demo
+转行AI产品，有工程背景，2年+大模型应用产品实践，擅长把模糊业务需求转化为可验收的产品方案，懂技术边界，重点做企业侧大模型落地。# 🧠 LLM B端应用实践 | RAG & Agent Demo
 > AI产品落地实践项目，面向企业知识库、智能问答、工作流Agent场景
 
 ## ✨ 项目简介
@@ -43,10 +44,9 @@ aipm-product-portfolio/
         ├── rag-knowledge-base.md
         ├── agent-workflow.md
         └── prompt-eval-platform.md
+        └── snack-prd.md
 
-
-## 🖼️ 原型预览
-Figma低保原型：[这里粘贴你的Figma链接]
+## 🖼️ 原型
 > 包含：知识库管理页、文档上传、检索配置、对话界面、Agent节点配置、数据复盘面板
 
 ## 🧪 技术选型（产品侧视角）
