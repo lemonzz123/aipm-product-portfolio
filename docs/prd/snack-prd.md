@@ -105,9 +105,10 @@ MVP包含：**订单只读查询、退换货AI预处理**。
 
 ## 9 Figma原型图
 > 低保原型截图
-![C端买家聊天页面](./docs/images/snack/C端买家聊天页面.svg)
-![客服工作台后台页面](./docs/images/snack/客服工作台后台页面.svg)
-![BadCase迭代看板页面](./docs/images/snack/BadCase迭代看板页面.svg)
+![C端买家聊天页面](../images/snack/C端买家聊天页面.svg)
+![客服工作台后台页面](../images/snack/客服工作台后台页面.svg)
+![BadCase迭代看板页面](../images/snack/BadCase迭代看板页面.svg)
+
 
 
 ##  10 BadCase 迭代闭环
